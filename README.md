@@ -6,6 +6,8 @@ This assignment focuses on simulating sparse and noisy observations of a physica
 
 ## Methods
 Plotting data with different N's
+
+
 Part 1.1
 ![image](https://github.com/leilaakisheva/Least-squares-regression/assets/128895782/b85ec066-d12a-4d97-b6ea-e14805706dfb)
 ![image](https://github.com/leilaakisheva/Least-squares-regression/assets/128895782/d78b6023-d358-428f-8325-361f2c3664a3)
